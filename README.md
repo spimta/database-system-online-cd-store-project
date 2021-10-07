@@ -3,8 +3,8 @@
 THE URL of the project: http://www-cs.ccny.cuny.edu/~liny2353/proj2/menu.php
 The assignment includes: 
 
-1. Task 1.pdf has the E/R diagram 
-2. Task 2.txt has the SQL statement converted from E/R diagram to create the relations.
+1. ER_Diagram.pdf has the E/R diagram 
+2. create_table.txt has the SQL statement converted from E/R diagram to create the relations.
 3. 13 php files: 
 
 * menu.php is basically the menu of the program
