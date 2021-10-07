@@ -23,5 +23,5 @@ The assignment includes:
 * find_prducer.php will show a list of the producers’ information that produced a CDs in a particular year and released a particular artist’s song that user wants to search in 6.php
 
 
-THE URL: http://www-cs.ccny.cuny.edu/~liny2353/proj2/menu.php
+~~THE URL: http://www-cs.ccny.cuny.edu/~liny2353/proj2/menu.php~~
 
