@@ -1,6 +1,7 @@
 # database-system-online-cd-store-project
 
-THE URL of the project: http://www-cs.ccny.cuny.edu/~liny2353/proj2/menu.php
+~~THE URL of the project: http://www-cs.ccny.cuny.edu/~liny2353/proj2/menu.php~~
+
 The assignment includes: 
 
 1. ER_Diagram.pdf has the E/R diagram 
